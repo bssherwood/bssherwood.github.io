@@ -9,9 +9,11 @@ author_profile: true
 
 Published/Accepted
 ======
-* 2023
-	* Tan, Y., Shenoy, P., Sherwood, B., Gaddy, M., Shenoy, C. and Oehlert, M. Bayesian Network Models for PTSD Screening in Veterans. Accepted at Informs Journal on Computing. 
+* 2024
+	* Tan, Y., Sherwood, B. and Shenoy, P. <a href="https://www.sciencedirect.com/science/article/pii/S0888613X24001269">A Naive Bayes Regularized Logistic Regression Estimator for Low-dimensional Classification</a>. International Journal of Approximate Reasoning.
+	* Tan, Y., Shenoy, P., Sherwood, B., Gaddy, M., Shenoy, C. and Oehlert, M. <a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.0174">Bayesian Network Models for PTSD Screening in Veterans.</a> Informs Journal on Computing. 
 	* Sherwood, B. and Price, B.S. (2023) <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2210174">On the Use of Minimum Penalties in Statistical Learning</a>. Journal of Computational and Graphical Statistics, 1-21. 
+* 2023 
 	* Maidman, A, Wang, L, Zhou, X-H, Sherwood, B. (2023) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9745">Quantile partially linear additive model for data with dropouts and an application to modeling cognitive decline.</a> Statistics in Medicine. 2023; 42(16): 2729–2745.
 	* Allenbrand, C. and Sherwood, B. (2023) <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
 * 2022
@@ -44,9 +46,3 @@ Published/Accepted
 	* Wang, L., Sherwood, B. and Li, R. (2014). <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237207/pdf/nihms590993.pdf">Discussion of "Estimation and Accuracy after Model Selection" by Brad Efron.</a> Journal of the American Statistical Association, 109, 1007-1010.
 * 2013
 	* Sherwood, B., Wang, L. and Zhou, A. (2013). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.5883">Weighted quantile regression for analyzing health care cost data with missing covariates.</a> Statistics in Medicine, 32, 4967-4979.
-
-
-Submitted 
-======
-* Penalized method for combining logistic regression and naive bayes. 
-* An approach to model selection uncertainty in time series models. 

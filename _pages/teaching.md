@@ -11,5 +11,5 @@ I find statistics to be an interesting and exciting field. I enjoy teaching beca
 
 Useful Downloads
 ======
-* <a href="https://rweb.crmda.ku.edu/cran/">R</a> 
-* <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio</a> 
+* <a href="https://www.r-project.org/">R</a> 
+* <a href="https://posit.co/download/rstudio-desktop/#download">RStudio</a> 
