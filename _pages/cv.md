@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* February 2006 to May 2009: Systems Administrator at <a href="www.rise.org">Rise, Inc.</a>
+* February 2006 to May 2009: Systems Administrator at <a href="https://www.rise.org">Rise, Inc.</a>
   * Transitioned company to new database that tracked all program participants.
   * Consulted staff on data collection and analysis required for grants and government reports.
   
@@ -25,7 +25,7 @@ Work experience
   * Sole point of contact for all technological issues.
   * Wrote grants for funding of technology needs.
 
-* July 2003 to July 2004: AmeriCorps VISTA at <a href="www.uen.org">Utah Education Network</a>
+* July 2003 to July 2004: AmeriCorps VISTA at <a href="https://www.uen.org">Utah Education Network</a>
 	* Managed program that donated used computer equipment to schools in Utah.
 	* Created program providing computer training for refugees living in Salt Lake City.
   
