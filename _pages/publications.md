@@ -9,6 +9,8 @@ author_profile: true
 
 Published/Accepted
 ======
+* 2025
+  * Sherwood, B., Li, S. and Maidman, A. (2025) <a href="https://journal.r-project.org/articles/RJ-2025-017/">rqPen: An R Package for Penalized Quantile Regression</a>. The R Journal. 
 * 2024
 	* Tan, Y., Sherwood, B. and Shenoy, P. (2024) <a href="https://www.sciencedirect.com/science/article/pii/S0888613X24001269">A Naive Bayes Regularized Logistic Regression Estimator for Low-dimensional Classification</a>. International Journal of Approximate Reasoning.
 	* Tan, Y., Shenoy, P., Sherwood, B., Gaddy, M., Shenoy, C. and Oehlert, M. (2024) <a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.0174">Bayesian Network Models for PTSD Screening in Veterans.</a> Informs Journal on Computing. 
